@@ -11,3 +11,5 @@ git push origin main
 *agora estamos na branch nova
 
 git checkout -b dev
+
+algo de certo não esta errado
