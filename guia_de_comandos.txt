@@ -1,0 +1,9 @@
+git init transforma o diretório selecionado em repositório .git
+
+git remote add origin + URL do repositório remoto 
+
+git add adiciona o arquivo ao Index
+
+git commit -m ”mensagem do commit”
+
+git push origin main
